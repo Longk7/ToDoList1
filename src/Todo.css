@@ -1,0 +1,12 @@
+.Todo {
+	text-align: center;
+	margin-left: 0px;
+}
+
+.aligned {
+	display: flex;
+	align-items: center;
+}
+.done {
+	text-decoration: line-through;
+}
